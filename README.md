@@ -93,6 +93,10 @@ login-registration-system/
 │   │   ├── auth/
 │   │   │   ├── login.ts
 │   │   │   ├── register.ts
+|   |   ├── login/
+│   │   │   ├── page.tsx
+|   |   ├── registration/
+│   │   │   ├── page.tsx
 │   │   ├── globals.css
 |   |   ├── layout.tsx
 |   |   ├── page.tsx
