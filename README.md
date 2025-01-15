@@ -2,6 +2,7 @@
 
 A practice project for building a **Login and Registration** page with added functionality to improve user experience and security.
 
+Below is a breakdown of this project, please give this repo a star(🌟).
 ---
 
 ## 📜 Features
